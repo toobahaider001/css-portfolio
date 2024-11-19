@@ -1,0 +1,11 @@
+.secondary {
+        background-color: rgb(160, 155, 155);
+        color: white;
+        border: none;
+}
+.primary {
+        background-color: rgb(116, 193, 238);
+        color: white;
+        border: none;
+        padding-right: 20px;
+}
